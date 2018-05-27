@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "name": "Какой-то заголовок",
+    "information": {
+      "description": "Тут информация",
+      "image": "http://artemis-spb.narod.ru/images/spas10.jpg",
+      "date": "26 декабря 2018 – 18 января 2018"
+    }
+  },
+  {
+    "id": 1,
+    "name": "тут другой заголовок",
+    "information": {
+      "description": "тоже информация",
+      "image": "https://vikiperm.com/frontend/web/uploads/file_454.jpg",
+      "date": "3 апреля 2018 - 1 июня 2018"
+    }
+  },
+  {
+    "id": 2,
+    "name": "заголовок 3",
+    "information": {
+      "description": "Тоже какая-то информация",
+      "image": "https://i.pinimg.com/originals/88/70/76/887076b27d38116da1482f7fd092cf8b.jpg",
+      "date": "8 марта 2018 - 27 мая 2018"
+    }
+  }
+]
